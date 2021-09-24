@@ -1,1 +1,1 @@
-# PythonExercises
+Studying Python
